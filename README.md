@@ -85,17 +85,6 @@ Before beginning this project, ensure you have:
 - 📚 **Basic networking knowledge** (TCP/IP, DNS, subnetting)
 - 🎓 **Familiarity with Active Directory** concepts
 
-### 💰 Estimated Monthly Cost
-
-| Resource | SKU | Estimated Cost |
-|----------|-----|----------------|
-| VPN Gateway | VpnGw1 | ~$140/month |
-| Windows Server VM | Standard_B2s | ~$70/month |
-| Storage | 127 GB Premium SSD | ~$20/month |
-| **Total** | | **~$230/month** |
-
-> 💡 **Tip:** Delete resources when not in use to minimize costs
-
 ---
 
 ## 🚀 Implementation Guide
@@ -149,8 +138,6 @@ Create a Virtual Network Gateway for secure remote connectivity.
 | **Public IP** | Create new (AD-VPN-PIP) |
 
 > ⏱️ **Deployment Time:** Approximately 30-45 minutes
-> 
-> ☕ Perfect time for a coffee break!
 
 ---
 
@@ -725,7 +712,6 @@ This project is open source and available for educational purposes.
 
 ![Network Topology](https://img.shields.io/badge/Components-9-blue)
 ![Azure Resources](https://img.shields.io/badge/Azure_Resources-3-0078D4)
-![Estimated Cost](https://img.shields.io/badge/Monthly_Cost-~$230-green)
 ![Deployment Time](https://img.shields.io/badge/Deployment_Time-2--3_hours-orange)
 
 ---
