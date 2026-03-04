@@ -1,4 +1,4 @@
-# 🏢 Active Directory Homelab in Azure
+# 🏢 P2S Active Directory Homelab in Azure
 
 > Building an enterprise-grade Active Directory environment using Azure infrastructure with Point-to-Site VPN connectivity
 
