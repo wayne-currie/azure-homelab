@@ -1,4 +1,4 @@
-# 🏢 P2S Active Directory Homelab in Azure
+# 🏢 Hybrid Active Directory Lab in Azure with P2S VPN
 
 > Building an enterprise-grade Active Directory environment using Azure infrastructure with Point-to-Site VPN connectivity
 
